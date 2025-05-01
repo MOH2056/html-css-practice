@@ -1,0 +1,41 @@
+.flexbox{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(139, 31, 240);
+    height: 50px;
+    align-items: center;
+    flex-direction: row;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+div {
+    font-family: Arial;
+}
+.h {
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+
+}
+.t {
+    width: 400px;
+    padding-bottom: 7px;
+    border-radius: 15px;
+    border: none;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding-left: 20px;
+    height: 20px;
+}
+.d {
+    background-color: rgb(139, 31, 240);
+    color: white;
+    border-color: white;
+    border-width: 1px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 2px;
+    border-style: solid;
+}

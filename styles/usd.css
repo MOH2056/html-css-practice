@@ -1,0 +1,21 @@
+p{
+    font-family: Arial;
+    margin-bottom: 0;
+}
+.usd-font {
+    font-size: 30;
+}
+.u-font {
+    color: rgba(0, 0, 0, 0.658);
+    font-size: 18;
+}
+.t-font {
+    color: green;
+    margin-top: 5px;
+}
+.hours-font {
+    color: rgba(0, 0, 0, 0.658);
+}
+.n-font {
+    color: rgba(255, 0, 0, 0.726);
+}

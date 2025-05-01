@@ -1,0 +1,32 @@
+p {
+    font-family: Verdana;
+}
+.course-font {
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.B-font {
+    margin-top: 3px;
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 0;
+}
+.s-font {
+    margin-top: 15px;
+    font-weight: 500;
+    font-size: 16px;
+    width: 300px;
+    margin-bottom: 0;
+}
+.g-font {
+    margin-top: 18px;
+    background-color: green;
+    color: white;
+    width: 100px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 6px;
+
+}

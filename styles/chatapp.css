@@ -1,0 +1,56 @@
+p{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: o;
+
+}
+.container {
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: top;
+    box-shadow:  0 0 5px rgba(0, 0, 0, 0.3);
+    width: 200px;
+}
+.subcontainer {
+    margin-left: 8px;
+    margin-right: 10px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    
+}
+.profile {
+    width: 28px;
+    height: 28px;
+    object-fit: cover;
+    border-radius: 50px;
+    vertical-align: middle;
+    margin-right: 4px;
+
+}
+.name {
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    
+}
+.mutual {
+    display: inline-block;
+    vertical-align: middle;
+    color: rgb(100, 100, 100);
+}
+button {
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    margin-bottom: 10px;
+}

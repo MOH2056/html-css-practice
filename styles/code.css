@@ -1,0 +1,19 @@
+p {
+    font-family: Arial;
+    margin-bottom: 0;
+}
+.free {
+    font-weight: 700;
+}
+.c-font {
+    color: gray;
+    font-weight: 200;
+}
+.web {
+    width: 500px;
+    margin-top: 6px;
+    line-height: 25px;
+}
+.s-font {
+    color: rgba(0, 119, 255, 0.925);
+}

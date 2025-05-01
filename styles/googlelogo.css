@@ -1,0 +1,32 @@
+div {
+    text-align: center;
+}
+.g {
+    width: 200px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.s {
+    width: 500px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    font-size: 13px;
+    border-radius: 20px;
+    border-color: rgb(200, 200, 200);
+    border: none;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+
+}
+button{
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    font-size: 15px;
+    background-color: rgba(245, 245, 245);
+    border: none;
+}

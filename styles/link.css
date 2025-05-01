@@ -1,0 +1,27 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+.email {
+    color: rgba(0, 0, 0, 0.507);
+}
+.i {
+    margin-top: 5px;
+    border-color: rgba(0, 0, 0, 0.507);
+    margin-left: 10px;
+}
+.agree {
+    color: rgba(0, 0, 0, 0.507);
+    margin-top: 10px;
+}
+.join {
+    color: white;
+    background-color: blue;
+    margin-top: 12px;
+    padding-top: 13px;
+    padding-bottom: 14px;
+    width: 350px;
+    border-radius: 100px;
+    text-align: center;
+}

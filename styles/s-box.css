@@ -1,0 +1,11 @@
+.s {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 8px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    font-size: 16px;
+    border-width: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
